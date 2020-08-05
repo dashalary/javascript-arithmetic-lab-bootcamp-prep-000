@@ -1,6 +1,7 @@
 var number;
 function add() {
-  return 1 + 80
+  number = 1 + 80
+  return number
 }
 
 function subtract () {
