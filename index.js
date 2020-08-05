@@ -15,7 +15,7 @@ function multiply(){
  return number;
 }
 
-function divide (){
+function divide(){
   number = 5.0 / 2.5;
   return number;
 }
@@ -40,5 +40,3 @@ function preserveDecimal(n){
   return number;
 }
 
-
-}
