@@ -30,13 +30,13 @@ function decrement(a){
   return number;
 }
 
-function makeInt(n){
-  number = parseInt(n, 10);
+function makeInt(a){
+  number = parseInt(a, 10);
   return number;
 }
 
-function preserveDecimal(n){
-  number = parseFloat(n, 10);
+function preserveDecimal(a){
+  number = parseFloat(a, 10);
   return number;
 }
 
