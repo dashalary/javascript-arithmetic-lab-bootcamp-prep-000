@@ -1,27 +1,32 @@
 var number;
 function add() {
-  number = 1 + 80
-  return number
+  number = 1 + 80;
+  return number;
 }
 
 function subtract () {
-  return 60 - 40
+  number = 60 - 40;
+  return number;
 }
 
 function multiply() {
-  return 2 * 3.4
+ number = 2 * 3.4;
+ return number;
 }
 
 function divide () {
-  return 5.0 / 2.5
+  number = 5.0 / 2.5;
+  return number;
 }
 
 function increment(n) {
-  return n + 1
+  number = n + 1;
+  return number;
 }
 
 function decrement(n) {
-  return n - 1
+  number = n - 1;
+  return number;
 }
 
 function makeInt(n) {
