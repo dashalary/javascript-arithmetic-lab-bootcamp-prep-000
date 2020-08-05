@@ -1,7 +1,7 @@
 var number;
 
 function add(a,b){
-  number = 1 + 80;
+  number = a + b;
   return number;
 }
 
