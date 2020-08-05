@@ -5,28 +5,28 @@ function add(a,b){
   return number;
 }
 
-function subtract(){
-  number = 60 - 40;
+function subtract(a,b){
+  number = a - b;
   return number;
 }
 
-function multiply(){
- number = 2 * 3.4;
+function multiply(a,b){
+ number = a * b;
  return number;
 }
 
-function divide(){
-  number = 5.0 / 2.5;
+function divide(a,b){
+  number = a / b;
   return number;
 }
 
-function increment(n){
-  number = n + 1;
+function increment(a){
+  number = a + 1;
   return number;
 }
 
-function decrement(n){
-  number = n - 1;
+function decrement(a){
+  number = a - 1;
   return number;
 }
 
