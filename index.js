@@ -30,12 +30,12 @@ function decrement(n) {
 }
 
 function makeInt(n) {
-  number = parseInt(n,10)
-  return number
+  number = parseInt(n,10);
+  return number;
 }
 
 function preserveDecimal(n) {
-  return parseFloat('n')
+  number = parseFloat('n')
 }
 
 
