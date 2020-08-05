@@ -1,40 +1,41 @@
 var number;
-function add() {
+
+function add(){
   number = 1 + 80;
   return number;
 }
 
-function subtract () {
+function subtract (){
   number = 60 - 40;
   return number;
 }
 
-function multiply() {
+function multiply(){
  number = 2 * 3.4;
  return number;
 }
 
-function divide () {
+function divide (){
   number = 5.0 / 2.5;
   return number;
 }
 
-function inc(n) {
+function inc(n){
   number = n + 1;
   return number;
 }
 
-function dec(n) {
+function dec(n){
   number = n - 1;
   return number;
 }
 
-function makeInt(n) {
+function makeInt(n){
   number = parseInt(n, 10);
   return number;
 }
 
-function preserveDecimal(n) {
+function preserveDecimal(n){
   number = parseFloat(n, 10);
   return number;
 }
