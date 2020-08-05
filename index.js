@@ -5,7 +5,7 @@ function add(){
   return number;
 }
 
-function subtract (){
+function subtract(){
   number = 60 - 40;
   return number;
 }
