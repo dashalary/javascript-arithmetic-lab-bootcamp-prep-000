@@ -20,12 +20,12 @@ function divide(){
   return number;
 }
 
-function inc(n){
+function increment(n){
   number = n + 1;
   return number;
 }
 
-function dec(n){
+function decrement(n){
   number = n - 1;
   return number;
 }
